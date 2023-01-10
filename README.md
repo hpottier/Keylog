@@ -1,2 +1,2 @@
 # Keylog
-Simple keylogger module for the linux kernel.
+Testing different ways to log keys in a linux kernel module.
